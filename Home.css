@@ -1821,7 +1821,7 @@
   width: 550px;
   height: 308px;
   animation-duration: 1000ms;
-  margin: 33px 285px 60px auto;
+  margin: 49px auto 54px;
 }
 
 @media (max-width: 1199px) {
@@ -1874,10 +1874,6 @@
   .u-section-6 .u-container-layout-3 {
     padding-right: 0;
   }
-
-  .u-section-6 .u-video-1 {
-    margin-right: 170px;
-  }
 }
 
 @media (max-width: 767px) {
@@ -1910,7 +1906,6 @@
 
   .u-section-6 .u-video-1 {
     width: 540px;
-    margin-right: 0;
   }
 }
 
